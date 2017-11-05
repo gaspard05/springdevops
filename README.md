@@ -1,7 +1,7 @@
 # springdevops
 Spring Application leveraging DevOps
 
-# How To build
+# How to build
 ```
 
 mvn clean install
